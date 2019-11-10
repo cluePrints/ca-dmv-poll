@@ -10,10 +10,12 @@ Have pip3 installed
 
 Have chromedriver installed
 
-    brew install chromedriver
+    brew install cask chromedriver
 
 Install the required libs
 
+    source venv/bin/activate
+    ipython kernel install --user --name=ca-dmv-poll
     pip3 install -r requirements.txt
 
 Start the thing
