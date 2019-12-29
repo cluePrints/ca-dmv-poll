@@ -1,5 +1,7 @@
 # Usage
 
+Note to self: captcha solvers are incredibly noisy now - one out of 3-5 does passes. Solving a one manually sort of guarantees the result. Sticking to a place and changing time selector needs no captcha as of now. Also lines are not so bad - I got my stuff sorted in under 3 hours
+
 Have python3 installed
 
     brew install python3
